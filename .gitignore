@@ -1,5 +1,7 @@
 data
 models
 .env
-env
+*env
 keys
+*mlruns
+*artifacts
